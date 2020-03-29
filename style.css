@@ -1,0 +1,10 @@
+div {
+    margin: 20px;
+    font-size: 1.5rem;
+}
+
+input {
+    height: 1rem;
+    font-size: 1.1rem;
+    padding: 10px;
+}
